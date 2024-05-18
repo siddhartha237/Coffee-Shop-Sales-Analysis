@@ -18,3 +18,9 @@ Are there any peak times for sales activity?
 ![image](https://github.com/siddhartha237/Coffee-Shop-Sales-Analysis/assets/146628886/dcf97e88-2843-4308-844b-9a6d13107d55)
 
 Yes, in the morning from 9 AM to 11 AM, more number of orders were made as compared to other timings on a day.
+
+# 3. Problem
+ What is the total sales revenue for each month?
+
+ ![image](https://github.com/siddhartha237/Coffee-Shop-Sales-Analysis/assets/146628886/16b4f0d6-0813-4019-8a3f-a11bb63f61a7)
+
