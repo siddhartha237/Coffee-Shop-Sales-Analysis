@@ -24,3 +24,19 @@ Yes, in the morning from 9 AM to 11 AM, more number of orders were made as compa
 
  ![image](https://github.com/siddhartha237/Coffee-Shop-Sales-Analysis/assets/146628886/16b4f0d6-0813-4019-8a3f-a11bb63f61a7)
 
+# 4. Problem 
+ How do sales vary across different store locations?
+
+ ![image](https://github.com/siddhartha237/Coffee-Shop-Sales-Analysis/assets/146628886/c58aa95c-e4e1-4f6c-96db-04ec17e3de81)
+
+# 5. Problem
+what is the average price/order per person ?
+
+![image](https://github.com/siddhartha237/Coffee-Shop-Sales-Analysis/assets/146628886/19f89f63-2d4f-436e-ba07-667fba7c59cd)
+
+# 6. Problem
+Which products are the best selling in terms of quantity and revenue?
+
+![image](https://github.com/siddhartha237/Coffee-Shop-Sales-Analysis/assets/146628886/d01ff4e5-900e-4729-a64d-3aae12ace25f)
+
+
